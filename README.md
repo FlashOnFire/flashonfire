@@ -2,6 +2,9 @@
 I'm a passionate French developer and cybersecurity enthusiast who loves learning new things
 Currently studying at the Polytech engineering school
 
+[![wakatime](https://wakatime.com/badge/user/34c97922-cc1f-456f-9ab0-739a2e5abcf7.svg?style=for-the-badge)](https://wakatime.com/@34c97922-cc1f-456f-9ab0-739a2e5abcf7)
+---
+
 ## 🌐 Socials:
 ![Discord](https://dcbadge.vercel.app/api/shield/357561796141252630?compact=true)
 
@@ -37,8 +40,5 @@ Currently studying at the Polytech engineering school
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FlashOnFire&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=FlashOnFire&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
