@@ -31,9 +31,9 @@ Currently studying at the Polytech engineering school
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FlashOnFire&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FlashOnFire&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FlashOnFire&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=FlashOnFire&theme=dark&hide_border=false&include_all_commits=false&count_private=true&refresh=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FlashOnFire&theme=dark&hide_border=false&refresh=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FlashOnFire&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&refresh=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FlashOnFire&limit=5&theme=dark&combine_all_yearly_contributions=true)
