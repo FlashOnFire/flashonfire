@@ -3,7 +3,7 @@ I'm a passionate French developer and cybersecurity enthusiast who loves learnin
 Currently studying at the Polytech engineering school
 
 ## 🌐 Socials:
-![Discord](https://dcbadge.vercel.app/api/shield/357561796141252630)
+![Discord](https://dcbadge.vercel.app/api/shield/357561796141252630?compact=true)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumecalderon/)
 
