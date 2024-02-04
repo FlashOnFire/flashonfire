@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a passionate French developer and cybersecurity enthusiast who loves learning new things
-
+Currently studying at the Polytech engineering school
 
 ## 🌐 Socials:
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) : ``@flashonfire``
