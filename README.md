@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a passionate French developer and cybersecurity enthusiast who loves learning new things
+I'm a passionate French developer and cybersecurity enthusiast who loves learning new things !
+
 Currently studying at the Polytech engineering school
 
 [![wakatime](https://wakatime.com/badge/user/34c97922-cc1f-456f-9ab0-739a2e5abcf7.svg?style=for-the-badge)](https://wakatime.com/@34c97922-cc1f-456f-9ab0-739a2e5abcf7)
